@@ -1,0 +1,41 @@
+.timer-heading{
+ text-align: center;
+ color: aqua;   
+ font-size: 60px;
+}
+.container{
+   position: relative;
+   left : 34%;
+   margin-top: 20px;
+    width: 450px;
+    height: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #2f2f2f;
+}
+/*  */
+.Time{
+    font-size: 60px;
+}
+span{
+    color:crimson;
+    margin-right: 3px;
+    font-size: 70px;
+}
+.Time{
+    color: #cd921e;
+}
+.stop{
+background-color: #ff5403;
+outline: none;
+border: none;
+padding: 7px 34px;
+margin: 12px;
+
+}
+.start{
+    background-color: #ff5403;
+outline: none;
+border: none;
+padding: 7px 34px;
+}
