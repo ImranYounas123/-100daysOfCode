@@ -1,0 +1,88 @@
+.card-Container{
+   width: 900px;
+   height: 550px;
+   /* border: 1px solid red; */
+   margin: auto;
+}
+.card-Container .card-Header {
+ display: flex;
+ height: 100px;
+ position: relative;
+}
+.card-Container .card-Header .toggle{
+  position: relative;
+  left: 95%;
+  top: 5%;
+}
+.card-Container .card-Header .logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: -12%;
+}
+.card-Container .card-Header .content{
+  margin-left: 32px;
+  font-weight: bolder;
+  /* line-height: 14px; */
+  margin-top: 10px;
+}
+.center-part{
+ width: 900px;
+ height: 300px;
+}
+.center-part .centert h1{
+    text-align: center;
+    font-size: 80px;
+    font-weight: normal;
+    color: #fff;
+}
+.card-Container .bottom-middle {
+  margin-left: 32px; 
+}
+.card-Container .card-footer{
+    display: flex;
+    justify-content: flex-start;
+}
+.card-Container .card-footer > div{
+    margin-right: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.card-Container .card-footer .heart-Counter span{
+    text-align: center;
+    font-size: 20px;
+  position: relative;
+  top: -16%;
+  left: 30%;
+}
+
+/* ========================Comment Section  */
+.Comment-Card{
+  width: 900px;
+  height: 250px;
+  /* border: 1px solid red; */
+  margin: auto;
+}
+.Comment-Card textarea{
+  margin: 20px;
+  width: 500px;
+  height: 100px;
+  outline: transparent;
+  border: transparent;
+}
+.Comment-Card button{
+  outline: none;
+  border: none;
+}
+.Comment-Card .comment-Container ul{
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+
+}
+.Comment-Card .comment-Container .Date{
+    position: relative;
+    right:  -40%;
+    font-weight: bolder;
+}
