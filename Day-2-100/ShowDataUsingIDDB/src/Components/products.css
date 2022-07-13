@@ -1,0 +1,14 @@
+.container{
+width:400px;
+text-align: center;
+}
+.container .products{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.pizzaName > img{
+  width: 300px;
+}
