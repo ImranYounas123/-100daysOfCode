@@ -7,4 +7,12 @@
 #### 1. MUi
 #### 2. Bootstrap
 #### 3. CSS
-<img src="" alt="ScreenShot" />
+
+<img src="https://github.com/ImranYounas123/-100daysOfCode/blob/master/Day-2-100/Socail%20Card%20Using%20React%20js/src/s1.PNG" alt="ScreenShot" alt="ScreenShot" />
+###
+###
+<img src="https://github.com/ImranYounas123/-100daysOfCode/blob/master/Day-2-100/Socail%20Card%20Using%20React%20js/src/s2.PNG" />
+###
+###
+<img src="https://github.com/ImranYounas123/-100daysOfCode/blob/master/Day-2-100/Socail%20Card%20Using%20React%20js/src/s3.PNG" alt="ScreenShot" />
+
